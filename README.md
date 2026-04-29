@@ -1,8 +1,7 @@
 
   # Mobile Landing Page Design
 
-  Live site: https://samrreyy.github.io/landing-Page/
-
+  Live site: https://business-tracker-landing.vercel.app/
   This is a code bundle for Mobile Landing Page Design. The original project is available at https://www.figma.com/design/xWv6ccvsFf5JFq2BcSORYJ/Mobile-Landing-Page-Design.
 
   ## Running the code
